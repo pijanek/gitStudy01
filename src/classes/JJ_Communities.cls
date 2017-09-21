@@ -20,7 +20,7 @@ public class JJ_Communities {
         gen.writeObjectField('getSiteId', Site.getSiteId());
               
         gen.writeEndObject();
-        String pretty = gen.getAsString();
+        //String pretty = gen.getAsString();
 
         ////select id, AssetCategory, CustomBrandId, TextAsset from CustomBrandAsset
     
